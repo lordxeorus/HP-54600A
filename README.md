@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="_fa3xGeiBVqQ9WT1gHGVdEGlepKP73EfuS16X1wR3Yk" />
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="HP_54600A_0"></a>HP 54600A</h1>
 <p class="has-line-data" data-line-start="1" data-line-end="3">FW 2.3 For HP 54600A Oscilloscope<br>
 FW for HP 54657A Measurment/Storage/HPIB module</p>
